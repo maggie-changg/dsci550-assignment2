@@ -4,16 +4,14 @@ import pandas as pd
 import requests
 from io import BytesIO
 
-# ========== CONFIG ==========
-HUGGINGFACE_TOKEN = "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"
+HUGGINGFACE_TOKEN = "YOUR_TOKEN"
 CSV_FILE = "team6_part_01.csv"
 OUTPUT_CSV = "output_part1_sd.csv"
-IMAGE_DIR = r"C:\Users\朱恒霄\Desktop\part1_image_sd"
+IMAGE_DIR = r"Output folder for images"
 DELAY_SECONDS = 10
 
 os.makedirs(IMAGE_DIR, exist_ok=True)
 
-# ========== Hugging Face API ==========
 API_URL = "https://api-inference.huggingface.co/models/CompVis/stable-diffusion-v1-4"
 HEADERS = {"Authorization": f"Bearer {HUGGINGFACE_TOKEN}"}
 
@@ -33,7 +31,6 @@ def make_safe_filename(text, max_length=50):
     safe_text = ''.join(c if c.isalnum() or c in (' ', '_') else '_' for c in text)
     return safe_text[:max_length].strip().replace(' ', '_') + ".png"
 
-# ========== Main ==========
 df = pd.read_csv(CSV_FILE)
 if 'image_path' not in df.columns:
     df['image_path'] = ""
@@ -63,6 +60,6 @@ for idx, row in df.iterrows():
     time.sleep(DELAY_SECONDS)
 
 df.to_csv(OUTPUT_CSV, index=False)
-print("✅ Done. All images saved to:", IMAGE_DIR)
+print("All images saved to:", IMAGE_DIR)
 
 
