@@ -8,7 +8,6 @@ total_parts = 6
 rows_per_part = len(df) // total_parts
 remainder = len(df) % total_parts
 
-# ✅ Save splits to current folder
 output_dir = os.getcwd()
 split_files = []
 
@@ -23,4 +22,4 @@ for part in range(1, total_parts + 1):
     split_files.append((part, filename, len(chunk)))
     start = end
 
-print(" Done! All files saved in:", output_dir)
+print("All files saved in:", output_dir)
