@@ -1,0 +1,4 @@
+Location: Biomedical Engineering Building
+
+Description:
+the old hospital - There is a presence that inhabits the 4th floor (which used to be where the operating room was). The elevator continuously travels to the 4th floor although no offices are located there. It goes from the 1st floor (the old morgue) to the 4th floor, although another floor has been selected. Noises have also been heard on the 3rd floor when no one is around.

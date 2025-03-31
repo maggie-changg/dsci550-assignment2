@@ -1,0 +1,4 @@
+Location: highway 75
+
+Description:
+These lights always seem to appear. Some times they are there and very bright, and some times they are not there at all.

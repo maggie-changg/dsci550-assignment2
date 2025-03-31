@@ -1,0 +1,4 @@
+Location: Cashtown Inn
+
+Description:
+a civil war soldier has been seen here.

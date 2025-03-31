@@ -1,0 +1,4 @@
+Location: Old Officer's Quarters
+
+Description:
+No electricity runs into this building; however, late at night, after the staff goes home, bright lights can be seen inside the facility.

@@ -1,0 +1,4 @@
+Location: North Slope Saloon
+
+Description:
+There is a mysterious "lady in yellow" who appears during after-hours. It becomes angry if it is mentioned.

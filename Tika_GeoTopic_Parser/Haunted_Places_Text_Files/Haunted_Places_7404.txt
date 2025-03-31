@@ -1,0 +1,4 @@
+Location: Old Mansion Inn
+
+Description:
+the ghost of Colonel John Waller Hoomes haunts his home.

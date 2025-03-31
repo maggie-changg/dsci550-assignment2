@@ -1,0 +1,4 @@
+Location: Hank's Bridge
+
+Description:
+When calling on the ghost of the bridge, your car will not start when you go to leave for awhile. Also noted very cold on the bridge.

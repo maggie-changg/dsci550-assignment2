@@ -1,0 +1,4 @@
+Location: Municipal Auditorium
+
+Description:
+Footsteps go across the stage when no one is there. Voices carry on conversations just out of understanding range, usually downstairs. Chairs may move from where they are set in the mezzanine.

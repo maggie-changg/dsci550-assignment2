@@ -1,0 +1,4 @@
+Location: Old Hospital Alice P and S
+
+Description:
+Reports of a call bell going off on the second fool when no one is in the room, even after it had been unplugged.

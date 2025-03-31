@@ -1,0 +1,4 @@
+Location: Haskell House
+
+Description:
+ghost of Senator Broderick pacing back and forth.

@@ -1,0 +1,4 @@
+Location: Burger King downtown
+
+Description:
+Haunted by an unknown entity.

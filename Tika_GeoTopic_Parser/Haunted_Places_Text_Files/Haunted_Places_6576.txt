@@ -1,0 +1,4 @@
+Location: Spanaway Jr. High School
+
+Description:
+Lights flicker and alarms go off when no ones around.

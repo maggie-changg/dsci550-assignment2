@@ -1,0 +1,4 @@
+Location: Cemetery
+
+Description:
+As your leaving the town, right after you pass the cemetery, a shadowy covered wagon follows you all the way to the highway. It stays right behind you even if you go 90mph.

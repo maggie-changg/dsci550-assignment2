@@ -1,0 +1,4 @@
+Location: Majestic theater
+
+Description:
+Reports of hearing screams.

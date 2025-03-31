@@ -1,0 +1,4 @@
+Location: Hilltop Hotel
+
+Description:
+Apparitions of soldiers marching through rooms.

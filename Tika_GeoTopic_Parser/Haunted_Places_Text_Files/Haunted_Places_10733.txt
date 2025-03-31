@@ -1,0 +1,4 @@
+Location: the Tanning Yards
+
+Description:
+Reports that a mischievous ghost is supposed to be out there.

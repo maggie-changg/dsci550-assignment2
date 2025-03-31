@@ -1,0 +1,4 @@
+Location: Hamelhouse
+
+Description:
+Reports of apparitions, bottles, keys and other items such as forks plates fly across the room.

@@ -1,0 +1,4 @@
+Location: Community Hospital
+
+Description:
+the fire alarm often go off in this building. The alarm wires are no longer hooked up because the fire marshal and the fire department are tired of going and resetting the alarms.

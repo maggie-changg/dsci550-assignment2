@@ -1,0 +1,4 @@
+Location: The Capital Theater
+
+Description:
+Reports of malfunctioning equipment & the elevator has been known to open without anyone pushing it, and taking you to a level you did not push.

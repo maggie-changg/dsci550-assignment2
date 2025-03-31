@@ -1,0 +1,4 @@
+Location: Ice Caves
+
+Description:
+Employees and tourists have heard strange voices and footsteps inside the caves.

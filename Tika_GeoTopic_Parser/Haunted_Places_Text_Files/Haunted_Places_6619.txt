@@ -1,0 +1,4 @@
+Location: Tokeland Inn
+
+Description:
+Reports of apparitions (dog, cat, and a Chinese man) and strange sounds.

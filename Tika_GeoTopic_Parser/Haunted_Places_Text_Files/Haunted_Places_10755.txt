@@ -1,0 +1,4 @@
+Location: Toccoa Presbyterian Church
+
+Description:
+This church is unlocked at all times. If you try to take something out of it, it will become too heavy for you to carry. If you light a lighter in the church, it will fall apart.

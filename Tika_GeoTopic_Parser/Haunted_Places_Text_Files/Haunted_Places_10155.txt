@@ -1,0 +1,4 @@
+Location: Ellsworth Air Force Base
+
+Description:
+moving objects and shadowy figures are observed here.

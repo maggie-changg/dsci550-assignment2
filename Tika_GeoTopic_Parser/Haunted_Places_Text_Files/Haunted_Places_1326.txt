@@ -1,0 +1,4 @@
+Location: Stone Tavern
+
+Description:
+is haunted by the ghost of an unknown child.

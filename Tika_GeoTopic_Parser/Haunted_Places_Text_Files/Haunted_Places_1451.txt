@@ -1,0 +1,4 @@
+Location: Colonial Inn
+
+Description:
+a gray ghost haunts room 24.

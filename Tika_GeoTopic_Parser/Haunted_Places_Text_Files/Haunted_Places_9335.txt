@@ -1,0 +1,4 @@
+Location: Auburn Park
+
+Description:
+If you park your car by the lake in Auburn Park, The Blue Lady is supposed to rise out of the lake and walk towards your car.

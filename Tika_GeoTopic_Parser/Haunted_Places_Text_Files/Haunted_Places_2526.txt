@@ -1,0 +1,4 @@
+Location: Gravity Point
+
+Description:
+You take a road called Glen Helen until you pass a 2 consecutive train tracks. When you pass a 3rd set or tracks you will have a stop sign about 100 hundred feet in front of you. You have to go passed to the stop sign and stop on the line. When the car is in neutral it will roll up hill increasing in speed.

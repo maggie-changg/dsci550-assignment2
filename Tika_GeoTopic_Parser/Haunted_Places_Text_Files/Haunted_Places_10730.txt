@@ -1,0 +1,4 @@
+Location: Foster's Tavern
+
+Description:
+Sounds of horse hooves on the roof, voices and footsteps on the stairs have been heard.

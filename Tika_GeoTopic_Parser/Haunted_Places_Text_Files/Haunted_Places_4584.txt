@@ -1,0 +1,4 @@
+Location: Cemetery
+
+Description:
+There is an old phantom that roams the graves.

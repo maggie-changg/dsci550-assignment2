@@ -1,0 +1,4 @@
+Location: Bank One Processing Center
+
+Description:
+The automatic doors open with no one there. Cold spots have also been noticed around these times.

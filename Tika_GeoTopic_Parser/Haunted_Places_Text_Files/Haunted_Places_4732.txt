@@ -1,0 +1,4 @@
+Location: Hiestand House
+
+Description:
+This house is haunted by the Hiestand family.

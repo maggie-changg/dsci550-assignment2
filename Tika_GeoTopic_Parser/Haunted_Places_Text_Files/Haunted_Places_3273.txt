@@ -1,0 +1,4 @@
+Location: Public Library
+
+Description:
+It's a very small library, with rotating librarians (only one per shift, two total). Books will fall to the floor, move themselves out from the shelves a bit, and other strange occurrences (this happens A LOT). It feels as if someone has past you when you're alone.

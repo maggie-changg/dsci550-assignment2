@@ -1,0 +1,4 @@
+Location: Barnstable Inn
+
+Description:
+Drinks get knocked over by an unseen force and doors slam.

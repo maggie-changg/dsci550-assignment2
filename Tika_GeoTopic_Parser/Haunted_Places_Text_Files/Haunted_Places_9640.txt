@@ -1,0 +1,4 @@
+Location: Confetti's a Nightclub/Eatery
+
+Description:
+Objects moving and a smoky apparition have been observed by the staff here.

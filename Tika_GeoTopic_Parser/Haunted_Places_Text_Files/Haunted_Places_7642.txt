@@ -1,0 +1,4 @@
+Location: Chuck's Steak House
+
+Description:
+voices are heard in the dining room and kitchen.

@@ -1,0 +1,4 @@
+Location: Bard Hospital
+
+Description:
+Bard Hospital has been turned into an office building. Now things move around by themselves and lights go out without human help. If one wants them to go back on, all one has to do is say, "I'm not finished yet!" and they'll go back on.

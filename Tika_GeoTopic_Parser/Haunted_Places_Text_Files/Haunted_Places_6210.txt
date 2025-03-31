@@ -1,0 +1,4 @@
+Location: Airport
+
+Description:
+Reports of orb, moans and screams on the runway. United Flight 232 crashed there on July 19, 1989, and 112 of the 376 on board died.

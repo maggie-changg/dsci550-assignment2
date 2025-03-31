@@ -1,0 +1,4 @@
+Location: Hotel Des Artistes
+
+Description:
+this ghost likes to touch people.

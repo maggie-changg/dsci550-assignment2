@@ -1,0 +1,4 @@
+Location: Amway Grand Plaza Hotel
+
+Description:
+in the old part (smoking section now). Objects moving on their own.

@@ -1,0 +1,4 @@
+Location: Whiskey Pete's Casino
+
+Description:
+Whiskey Pete's ghost is watching players play in his casino.

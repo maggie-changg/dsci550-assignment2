@@ -1,0 +1,4 @@
+Location: Territorial Governor's Mansion
+
+Description:
+voices and moving objects have been observed here.

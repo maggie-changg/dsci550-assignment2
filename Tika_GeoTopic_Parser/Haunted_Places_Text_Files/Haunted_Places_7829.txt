@@ -1,0 +1,4 @@
+Location: Bonanza Saloon
+
+Description:
+Apparition of a lady waving on the balcony.

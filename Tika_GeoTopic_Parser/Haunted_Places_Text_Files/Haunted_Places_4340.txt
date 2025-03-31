@@ -1,0 +1,4 @@
+Location: Henry Ludlam Inn
+
+Description:
+strange sounds and events occur here.

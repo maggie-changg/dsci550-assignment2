@@ -1,0 +1,8 @@
+#!/bin/bash
+export TIKA_VERSION=2.7.0
+
+# Use quotes around paths with spaces
+java -classpath \
+"${PWD}/location-ner-model:${PWD}/geotopic-mime:${PWD}/tika-build/tika-server-standard-${TIKA_VERSION}.jar:${PWD}/tika-build/tika-parser-nlp-package-${TIKA_VERSION}.jar" \
+org.apache.tika.server.core.TikaServerCli
+

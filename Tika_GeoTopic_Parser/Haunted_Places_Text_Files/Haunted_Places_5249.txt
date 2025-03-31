@@ -1,0 +1,4 @@
+Location: Komarek House
+
+Description:
+- moving furniture and other items have been witnessed here.
