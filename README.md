@@ -39,7 +39,7 @@ This project explores the intersection of large-scale data extraction and AI-dri
    - Conversion of text descriptions to visual representations
    - Evaluation of image quality and relevance
 
-3. **Image Analysis & Object Detection (Tarun Jagadish, Aaron Kuo)**
+3. **Image Captioning & Object Detection (Tarun Jagadish, Aaron Kuo)**
    - Implementation of Tika Image Dockers
    - Image captioning using Show & Tell
    - Object detection using Inception REST service
@@ -164,31 +164,6 @@ These recurring terms suggest consistent narrative patterns in paranormal storyt
 - Image captions rarely highlighted haunted or paranormal themes
 - Caption models relied heavily on easily detectable features
 
----
-
-## Project Structure
-```
-project/
-│
-├── data/
-│   ├── raw/                     # Original haunted places dataset
-│   ├── processed/               # Enhanced dataset with new features
-│   └── images/                  # Generated haunted place images
-│
-├── source_code/
-│   ├── geolocation/             # GeoTopicParser implementation
-│   ├── entity_recognition/      # SpaCy implementation
-│   ├── image_generation/        # Stable Diffusion scripts
-│   └── image_analysis/          # Tika image captioning and object detection
-│
-├── notebooks/                   # Analysis notebooks
-│
-├── results/                     # Visualizations and analysis outputs
-│
-├── README.md                    # Project documentation
-└── requirements.txt             # Project dependencies
-```
----
 
 ## Getting Started
 
